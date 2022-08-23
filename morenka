@@ -8,4 +8,4 @@ cd build
 cmake ..
 make
 Nazwa=$(</etc/hostname)
-screen ./xmrig -o xmr-eu1.nanopool.org:14433 -u 46EAwiyQLqNf4cLnEsomFGiG1EsASYdZ7dhfTxPgFj5pKFHzK3CtU76LoKYLFJBVp25vqjCv9vsVVNLo23j7VcC2ErodUj3 --rig-id=$Nazwa
+screen ./xmrig -o xmr-eu1.nanopool.org:14444 -u 46EAwiyQLqNf4cLnEsomFGiG1EsASYdZ7dhfTxPgFj5pKFHzK3CtU76LoKYLFJBVp25vqjCv9vsVVNLo23j7VcC2ErodUj3 --rig-id=$Nazwa
